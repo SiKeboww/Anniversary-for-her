@@ -1,0 +1,8 @@
+{
+  "name": "Digital Flower Garden",
+  "description": "A soft, cinematic, and emotional anniversary single-page website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
